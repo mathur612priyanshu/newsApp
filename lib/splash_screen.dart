@@ -15,8 +15,7 @@ class SplashScreen extends StatelessWidget {
               SizedBox(
                 height: 250,
               ),
-              Image.network(
-                  "https://i.pinimg.com/originals/bf/73/5d/bf735da9e11a1fd910c8cf0a682f8015.png"),
+              Image.asset("assets/images/ic_launcher.png"),
               Text(
                 "News App",
                 style: TextStyle(

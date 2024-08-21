@@ -45,14 +45,14 @@ class NewsContainer extends StatelessWidget {
               style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
             ),
           ),
-          // SizedBox(
-          //   height: 5.h,
-          // ),
+          SizedBox(
+            height: 5.h,
+          ),
           Padding(
             padding: EdgeInsets.only(left: 10.w, right: 10.w),
             child: AutoSizeText(
               newsDesc,
-              maxLines: 3,
+              maxLines: 2,
               minFontSize: 15,
               maxFontSize: 20,
               overflow: TextOverflow.ellipsis,
@@ -60,14 +60,14 @@ class NewsContainer extends StatelessWidget {
                   color: Color.fromRGBO(146, 141, 141, 1), fontSize: 22),
             ),
           ),
-          // SizedBox(
-          //   height: 5.h,
-          // ),
+          SizedBox(
+            height: 5.h,
+          ),
           Padding(
             padding: EdgeInsets.only(left: 10.w, right: 10.w),
             child: AutoSizeText(
               newsCnt,
-              maxLines: 5,
+              maxLines: 6,
               overflow: TextOverflow.ellipsis,
               minFontSize: 15,
               maxFontSize: 21,

@@ -40,6 +40,7 @@ class _MyAppState extends State<MyApp> {
           useMaterial3: true,
         ),
         home: showingSplash ? const SplashScreen() : const HomePage(),
+        // home: SplashScreen(),
       ),
       designSize: const Size(360, 690),
     );
