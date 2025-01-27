@@ -1,16 +1,10 @@
 # news_app2
 
-A new Flutter project.
+![WhatsApp Image 2025-01-27 at 23 01 21 (1)](https://github.com/user-attachments/assets/2b38160c-fa67-4d98-a650-ce7343257059)
 
-## Getting Started
+![WhatsApp Image 2025-01-27 at 23 01 21](https://github.com/user-attachments/assets/63387f77-8a1b-4b7a-909a-f6e04e997840)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2025-01-27 at 23 03 31](https://github.com/user-attachments/assets/2a1df0a1-b515-4451-8b2e-0f474e48aae4)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
